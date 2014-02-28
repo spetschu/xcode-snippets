@@ -1,4 +1,10 @@
+// uitableview
+// 
+//
 // IDECodeSnippetCompletionPrefix: uitableview
+// IDECodeSnippetIdentifier: BE1FD1D0-0AE8-44DF-B442-242F19720C4B
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 
 #pragma mark - UITableView datasource and delegate methods
 

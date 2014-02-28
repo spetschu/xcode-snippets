@@ -1,3 +1,9 @@
+// singleton
+// 
+//
+// IDECodeSnippetIdentifier: 697D1ED1-03C4-47DC-A93B-2577EBC9EF7C
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 <<<<<<< HEAD
 // IDECodeSnippetCompletionPrefix: singleton
 
