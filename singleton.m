@@ -1,3 +1,5 @@
+// IDECodeSnippetCompletionPrefix: singleton
+
 +(instancetype) shared<#name#> {
     static <#class#> *shared<#name#> = nil;
     static dispatch_once_t onceToken;
